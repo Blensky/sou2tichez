@@ -7,8 +7,9 @@
 
 #AljKesako{
     text-align: justify;
-    font-family: 'Caveat', cursive;
+    font-family: "Montserrat", serif;
     font-size: 30px;
+    font-weight: bolder;
 }
 
 /* DIVISION */
