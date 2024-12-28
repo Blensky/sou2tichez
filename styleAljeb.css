@@ -1,0 +1,30 @@
+/* DESCRIPTION */
+
+#AlDesk{
+    background-color: white;
+    padding: 10px;
+}
+
+#AljKesako{
+    text-align: justify;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+/* DIVISION */
+
+#Divizyon{
+    background: #004466;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.division_logo{
+    max-width: 100px;
+}
+
+.division_description{
+    font-family: "Montserrat", serif;
+    font-style:italic;
+    font-weight: 500;
+}
