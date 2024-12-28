@@ -51,7 +51,7 @@
   
   /* LANDING SECTION */
   #landingPage{
-    background-image: url('Images/back.jpg');
+    background-color: red;
     background-size: cover;
     background-position: center;
     padding-top: 5%;
