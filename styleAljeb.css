@@ -12,6 +12,21 @@
 }
 
 /* DIVISION */
+a.row.niveau{
+    text-decoration: none !important;
+    transition: transform 0.3s, filter 0.3s;
+    transform: translateY(0); 
+    filter: grayscale(0); 
+}
+
+a.row.niveau:hover{
+    transform: translateY(-5px); 
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.5);
+    cursor:grab;
+    filter: grayscale(100%); 
+    background-color: #e6e6e6;
+}
+
 
 #Divizyon{
     background: #004466;
@@ -33,4 +48,7 @@
     font-family: "Montserrat", serif;
     font-style:italic;
     font-weight: 500;
+    color: black;
 }
+
+
